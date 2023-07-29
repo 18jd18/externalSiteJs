@@ -1,3 +1,3 @@
-window.addEventListener('load', function() {
-  alert('Hello');
-});
+ $(document).ready(function() {
+      alert('Hello World111');
+    });
